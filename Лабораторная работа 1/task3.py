@@ -5,3 +5,4 @@ team_2 = list_players[size//2:]
 print(team_1)
 print(team_2)
 # TODO Разделите участников на две команды
+
